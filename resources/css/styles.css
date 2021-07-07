@@ -9,6 +9,10 @@
     padding-left: 10px;
 }
 
+.body {
+    background-color: black;
+}
+
 header div {
     float: right;
     display: flex;
